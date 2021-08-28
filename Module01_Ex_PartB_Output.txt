@@ -1,0 +1,51 @@
+Module01 Exercise Part B output
+Andy Ortiz
+eao7r
+
+Outputs of each code snippet
+
+1)  This is a sentence of words put together by me with a couple of duplicate words
+
+2)  ['This', 'is', 'a', 'sentence', 'of', 'words', 'put', 'together', 'by', 'me', 'with', 'a', 'couple', 'of', 'duplicate', 'words']
+
+3)
+[('This', 4),
+ ('is', 2),
+ ('a', 1),
+ ('sentence', 8),
+ ('of', 2),
+ ('words', 5),
+ ('put', 3),
+ ('together', 8),
+ ('by', 2),
+ ('me', 2),
+ ('with', 4),
+ ('a', 1),
+ ('couple', 6),
+ ('of', 2),
+ ('duplicate', 9),
+ ('words', 5)]
+
+4)
+This: 4
+is: 2
+a: 1
+sentence: 8
+of: 2
+words: 5
+put: 3
+together: 8
+by: 2
+me: 2
+with: 4
+a: 1
+couple: 6
+of: 2
+duplicate: 9
+words: 5
+
+5) ascending words: [('a', 1), ('a', 1), ('is', 2), ('of', 2), ('by', 2), ('me', 2), ('of', 2), ('put', 3), ('This', 4), ('with', 4), ('words', 5), ('words', 5), ('couple', 6), ('sentence', 8), ('together', 8), ('duplicate', 9)]
+number of words: 16
+
+6) unique ascending words: [('a', 1), ('by', 2), ('of', 2), ('is', 2), ('me', 2), ('put', 3), ('This', 4), ('with', 4), ('words', 5), ('couple', 6), ('sentence', 8), ('together', 8), ('duplicate', 9)]
+number of unique words: 13
